@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Playpen\Sunshine-Version-2-1.01_hello_world\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="E:\Playpen\Sunshine-Version-2-1.01_hello_world\app\build\intermediates\pre-dexed\debug\classes-221d13c0ac9e574a22a3bbe90c0af18b88e058aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashley\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="E:\Playpen\Sunshine-Version-2-1.01_hello_world\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-60aaaf63bca1073b89429672db703c3cd7c2fad4.jar" />
+    </item>
+    <item
+        jar="E:\Playpen\Sunshine-Version-2-1.01_hello_world\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="E:\Playpen\Sunshine-Version-2-1.01_hello_world\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e92d3491326af16c55076b5520e9e56115e58ec1.jar" />
+    </item>
+    <item
+        jar="E:\Playpen\Sunshine-Version-2-1.01_hello_world\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="E:\Playpen\Sunshine-Version-2-1.01_hello_world\app\build\intermediates\pre-dexed\debug\classes-fdded62fe6551d5a23534992522674f9ea7a61d8.jar" />
+    </item>
+
+</items>
